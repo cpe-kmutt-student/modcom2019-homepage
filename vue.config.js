@@ -7,5 +7,5 @@ module.exports = {
     },
   },
   outputDir: "docs",
-  publicPath: "/ModCom2019-Homepage",
+  publicPath: "/modcom2019-homepage",
 };
